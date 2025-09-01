@@ -27,5 +27,3 @@
    print(doubled);
  }
 
-
- // suraj kumar singh
